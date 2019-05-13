@@ -1,3 +1,7 @@
+Finally started seriously learning react :-) (although I've been using for a while now).
+
+> Below is the default contents of the README file that comes with the create-react-app command... just keeping it here for keepsakes.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
