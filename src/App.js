@@ -3,11 +3,13 @@ import logo from "./logo.svg";
 import "./App.css";
 import Greet from "./components/Greet";
 import Welcome from "./components/Welcome";
+import Counter from "./components/Counter";
 
 function App() {
   return (
     <div className="App">
-      <Greet name="Bruce" heroName="Batman">
+      <Counter /> 
+      {/* <Greet name="Bruce" heroName="Batman">
         {" "}
         <p>Bruce Wayne? or Banner?</p>{" "}
       </Greet>
@@ -19,7 +21,7 @@ function App() {
       <Welcome name="Bruce" heroName="Batman" />
       <Welcome name="Clark" heroName="Superman" />
       <Welcome name="Diana" heroName="Wonderwoman" />
-      <h1>Something Else</h1>
+      <h1>Something Else</h1> */}
     </div>
   );
 }
